@@ -29,7 +29,7 @@ READMEs covers any locale that has a translated README, dict or no dict.
 | `es-ES` | Español (España)     | `es-ES.ts`             | —                   | active |
 | `fa`    | فارسی                | `fa.ts`                | —                   | active |
 | `hu`    | Magyar               | `hu.ts`                | —                   | active |
-| `ja`    | 日本語               | —                      | `README.ja-JP.md`   | active (README only) |
+| `ja`    | 日本語               | `ja.ts`                | `README.ja-JP.md`   | active |
 | `ko`    | 한국어               | —                      | `README.ko.md`      | active (README only) |
 | `pt-BR` | Português (Brasil)   | `pt-BR.ts`             | —                   | active |
 | `ru`    | Русский              | `ru.ts`                | —                   | active |
